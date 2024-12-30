@@ -66,5 +66,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://backendweb-abz7.onrender.com"
+  "proxy": "http://localhost:3001/api"
 }
